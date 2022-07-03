@@ -2,8 +2,8 @@ const MyHeader = (props) => {
     return ( 
         <div>
             <header>
-            <nav className="navbar navbar-expand navbar-dark bg-dark justify-content-between px-5">
-  <a className="navbar-brand" href="/">Auth.io</a>
+            <nav className="navbar navbar-expand navbar-light bg-light justify-content-between px-5">
+  <a className="navbar-brand" href="/">Engr. Ibad</a>
   <div className="collapse navbar-collapse" id="navbarNav">
     <ul className="navbar-nav">
       <li className='nav-item'>

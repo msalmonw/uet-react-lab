@@ -7,7 +7,7 @@ const Home = () => {
 
             <center className='m-5'>
         <div className="display-1 ">
-        Welcome to Auth.io
+        Welcome!
       
        </div>
        <br />
